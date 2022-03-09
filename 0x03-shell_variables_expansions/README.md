@@ -8,3 +8,4 @@ task 8, variable arithmetic
 task 9, divide and rule
 task 10, love breath
 task 11, letter combinations
+task 11, binary to decimal
