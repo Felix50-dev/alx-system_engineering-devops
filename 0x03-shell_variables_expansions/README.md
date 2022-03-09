@@ -5,3 +5,5 @@ task 6, create a local variable
 task 7,create a global variable
 task 0,create alias
 task 8, variable arithmetic
+task 9, divide and rule
+task 10, love breath
